@@ -1,3 +1,13 @@
+Chan Lee
+
+MSDS 422
+
+Final Project: OpenML German Credit data set
+
+https://www.openml.org/search?type=data&status=active&id=31
+
+
+
 ## Executive Summary
 
 The OpenML German Credit data set contains information for 1,000 individuals with each entry also having a classification of being either a good or bad credit risk. This project aims to develop a predictive model capable of classifying credit risk as well as to determine which factors influence creditworthiness.
